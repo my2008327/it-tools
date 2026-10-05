@@ -97,6 +97,10 @@ tools:
     title: Percentage calculator
     description: Easily calculate percentages from a value to another value, or from a percentage to a value.
 
+  gpa-calculator:
+    title: GPA Calculator
+    description: Calculate weighted GPA with support for 5-point scale (MSBS) and 4-point scale. Add multiple courses with scores and credits.
+
   svg-placeholder-generator:
     title: SVG placeholder generator
     description: Generate svg images to use as a placeholder in your applications.
